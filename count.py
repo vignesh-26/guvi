@@ -1,2 +1,2 @@
-num=input()
-print(len(num))
+dog=input()
+print(len(dog))
