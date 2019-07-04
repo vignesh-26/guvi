@@ -1,7 +1,7 @@
-x=int(input())
-y=int(str(x)[::-1])
+p=int(input())
+r=int(str(p)[::-1])
 
-if y==x:
+if r==p:
     print("yes")
 else:
     print("no")
