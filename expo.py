@@ -1,2 +1,2 @@
-n,k=map(int,input().split())
-print(n**k)
+cat,dog=map(int,input().split())
+print(cat**dog)
